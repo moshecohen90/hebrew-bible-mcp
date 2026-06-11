@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.hebrewbible/hebrew-bible",
+  "title": "Hebrew Bible (Tanakh)",
+  "description": "Read and cite the Hebrew Bible (Tanakh) - Torah, Nevi'im, and Ketuvim - in Hebrew and 10 languages, and browse guided study plans. Tools: list_books, get_chapter, get_verse, list_subjects, browse_subject, get_plan.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/moshecohen90/hebrew-bible-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://hebrewbible.app/mcp"
+    }
+  ]
+}
