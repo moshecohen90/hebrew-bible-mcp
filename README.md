@@ -8,6 +8,7 @@ and for browsing guided study plans. Served by [hebrewbible.app](https://hebrewb
 - **Server card:** https://hebrewbible.app/.well-known/mcp/server-card.json
 - **Agent skill:** https://hebrewbible.app/.well-known/agent-skills/index.json
 - **Languages:** English, Hebrew (with nikud + cantillation), French, Spanish, Portuguese, Russian, German, Italian, Polish, Korean
+- **Docs:** [CONNECTOR.md](./CONNECTOR.md) · **Privacy:** [PRIVACY.md](./PRIVACY.md)
 
 ## Tools
 
