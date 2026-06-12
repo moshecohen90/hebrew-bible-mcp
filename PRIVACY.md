@@ -3,8 +3,10 @@
 _Last updated: 2026-06-12_
 
 The Hebrew Bible (Tanakh) MCP server at `https://hebrewbible.app/mcp` is a public,
-read-only service for reading biblical text and browsing study plans. This policy
-explains what it does and does not do with data.
+read-only service for reading biblical text and browsing study plans. It is part of
+the hebrewbible.app service and is governed by the full
+**[hebrewbible.app Privacy Policy](https://hebrewbible.app/en/about/documents/privacy_policy)**;
+this page summarizes how the MCP server specifically handles data.
 
 ## What it accesses
 
@@ -23,18 +25,15 @@ A request contains only the parameters needed to fetch content - e.g. book, chap
 verse, and language for a passage, or a subject and language for browsing plans. The
 server returns the requested public text and a link back to the source page. It does
 **not** collect, store, sell, or share personal data. Transient server logs (such as
-timestamps and IP addresses) may be retained briefly for security and reliability,
-consistent with the [hebrewbible.app privacy policy](https://hebrewbible.app).
+timestamps and IP addresses) may be retained briefly for security and reliability, as
+described in the full hebrewbible.app Privacy Policy linked above.
 
-## Audience
+## Full policy and changes
 
-The content is religious and educational and is suitable for all audiences.
-
-## Changes
-
-We may update this policy; the current version is always available at this URL.
+The complete and authoritative privacy policy for hebrewbible.app and this service is at
+<https://hebrewbible.app/en/about/documents/privacy_policy>. It takes precedence over
+this summary, and the current version is always available there.
 
 ## Contact
 
-For questions about this MCP server, see <https://hebrewbible.app> or contact support
-at **[your support email - e.g. support@hebrewbible.app]**.
+For privacy questions or requests, contact **report@hebrewbible.app**.

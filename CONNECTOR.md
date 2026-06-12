@@ -55,7 +55,8 @@ The assistant calls `get_chapter(book="Psalms", chapter=23, language="he")` and 
 
 ## Support
 
-See <https://hebrewbible.app> or contact **[your support email]**.
+See <https://hebrewbible.app> or contact **report@hebrewbible.app**.
+Privacy policy: <https://hebrewbible.app/en/about/documents/privacy_policy>
 
 ## Sister servers
 
