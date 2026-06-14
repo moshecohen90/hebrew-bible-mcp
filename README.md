@@ -1,8 +1,10 @@
-# Hebrew Bible (Tanakh) MCP Server
+# Hebrew Bible (Tanakh) MCP Server & API
 
-A public, no-auth **Model Context Protocol (MCP)** server for reading and citing the
-**Hebrew Bible (Tanakh)** - Torah, Nevi'im, and Ketuvim - in Hebrew and 10 languages,
-and for browsing guided study plans. Served by [hebrewbible.app](https://hebrewbible.app).
+A public, no-auth **Model Context Protocol (MCP)** server (and read API) for the
+**Hebrew Bible / Tanakh** - the Torah, Nevi'im, and Ketuvim. **Read Hebrew Bible
+verses and chapters online in Hebrew and 10 languages**, and browse guided study
+plans. Connect it to **Claude** or **ChatGPT** in one step. Served by
+[hebrewbible.app](https://hebrewbible.app).
 
 - **Endpoint:** `https://hebrewbible.app/mcp` (Streamable HTTP, JSON-RPC, no authentication)
 - **Server card:** https://hebrewbible.app/.well-known/mcp/server-card.json
@@ -62,6 +64,7 @@ Free to read; the biblical text and classical commentaries are in the public dom
 This repository contains only public metadata and documentation for the hosted MCP
 server - there is no proprietary code here.
 
-Keywords: Hebrew Bible, Tanakh, Tanach, Torah, Nevi'im, Ketuvim, Bible, scripture,
-verses, chapters, Psalms, Tehillim, parsha, study plans, Jewish, MCP server,
-Model Context Protocol, AI agent, Claude, ChatGPT.
+Keywords: Hebrew Bible MCP server, Bible MCP, Tanakh API, Hebrew Bible API,
+read Hebrew Bible online, read Torah online, read Jewish Bible online, Tanakh,
+Tanach, Torah, Nevi'im, Ketuvim, scripture, verses, chapters, Psalms, Tehillim,
+parsha, study plans, Model Context Protocol, Claude, ChatGPT.
